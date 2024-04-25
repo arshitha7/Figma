@@ -32,8 +32,6 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
-## CODE:
-
 ## OUTPUT:
 ![alt text](exp9(1).png)
 ![alt text](exp9(2).png)
